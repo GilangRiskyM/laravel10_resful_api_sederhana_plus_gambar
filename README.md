@@ -1,4 +1,4 @@
-## Tentang Laravel10 RESTFUL API
+## Tentang Laravel10 RESTFUL API Plus Gambar
 
 Hasil belajar API pada web SantriKoding
 
